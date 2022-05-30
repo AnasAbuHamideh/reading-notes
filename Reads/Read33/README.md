@@ -1,5 +1,5 @@
 # JSON Web Tokens - JWT
-Its considered as a method/way to transmit data safely contributers in JSON format. This information can be verified and trusted because it is digitally signed.
+a method/way to transmit data safely contributers in JSON format. This information can be verified and trusted because it is digitally signed.
 
 ## When to use JWT?
 Authorization Once the user logs in every request is going to include JWT.
@@ -14,9 +14,7 @@ It consists of three parts seperated by dots (.)
 Header
 Payload
 Signature
-So, JSON web tokens look like this:
 
-xxxxx.yyyyy.zzzzz
 
 Header
 The header consists of two parts:
